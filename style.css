@@ -1,0 +1,14 @@
+*{
+    background-color: aliceblue;
+}
+
+h1{
+    background-color: gray;
+    color: lightcoral;
+    border: solid;
+    border-color: gray;
+}
+
+img{
+    border: dashed;
+}
